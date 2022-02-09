@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript / Html5 e css3
+- 🔭 Hoje sou Desenvolvedor com front-end iniciante
+- 🌱 Estudando JavaScript / HTML5 E CSS3
 - 📫 contate-me no email: rafaelfilipeavelar@hotmail.com
 - 😄 Pronouns: ele/dele
 
