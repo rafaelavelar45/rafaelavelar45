@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje sou Desenvolvedor com front-end iniciante
+- 🔭 Hoje sou Desenvolvedor front-end iniciante
 - 🌱 Estudando JavaScript / HTML5 E CSS3
 - 📫 contate-me no email: rafaelfilipeavelar@hotmail.com
 - 😄 Pronouns: ele/dele
